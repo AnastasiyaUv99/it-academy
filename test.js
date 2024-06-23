@@ -1,3 +1,3 @@
-function print() {
-console.log ("Hello World")
-} 
+function text(){
+    \console.log("hello")
+}

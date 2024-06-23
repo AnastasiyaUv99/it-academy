@@ -1,2 +1,0 @@
-# it-academy
-new text
