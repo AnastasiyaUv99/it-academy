@@ -1,1 +1,1 @@
-hjhjhbuybyub
+console.log ("bye")
